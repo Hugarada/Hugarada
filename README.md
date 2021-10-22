@@ -1,6 +1,8 @@
-## Sup I am Healer
+# Sup I am Healer
 
->Additional information: **[Redacted]**
+~~~DB
+Additional information: **[Redacted]**
+~~~
 
   ![Snake animation](https://github-readme-stats.vercel.app/api?username=Hugarada&theme=highcontrast&show_icons=true)
   ![Snake animation](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugarada&layout=compact&langs_count=7&theme=highcontrast)
